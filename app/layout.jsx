@@ -5,7 +5,7 @@ import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 
 export const metadata = {
-  title: "Promptopia",
+  title: "BestTeacher",
   description: "Discover & Share your Experiences",
 };
 

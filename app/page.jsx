@@ -5,7 +5,7 @@ function page() {
   return (
     <section className="w-full flex-center flex-col ">
       <h1 className=" text-4xl font-extrabold text-center">
-        Share your 
+        Tell Your
         <br className="max-md:hidden" />
         <span className="blue_blue"> Experiences with us</span>
       </h1>
